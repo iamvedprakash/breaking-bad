@@ -9,3 +9,5 @@ npm install
 
 ### Run app
 npm start
+
+![Screenshot](https://github.com/iamvedprakash/breaking-bad/blob/main/Capture.JPG?raw=true)
